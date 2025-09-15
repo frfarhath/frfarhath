@@ -42,7 +42,7 @@
 ---
 
 ## 🌟 **GitHub Stats**
-![Farhath's GitHub stats](https://github-readme-stats.vercel.app/api?username=frfarhath&show_icons=true&theme=tokyonight&hide_border=true)  
+![Farhath's GitHub stats](https://github-readme-stats.vercel.app/api?username=frfarhath&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frfarhath&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
