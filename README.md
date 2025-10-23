@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm **Farhath Rahman**  
+# Hi there! 👋 I'm **Rahman Farhath **  
 
 🎓 **Computer Science & Technology Undergraduate**  
 💻 Passionate about coding, web & mobile development, and building impactful projects.
